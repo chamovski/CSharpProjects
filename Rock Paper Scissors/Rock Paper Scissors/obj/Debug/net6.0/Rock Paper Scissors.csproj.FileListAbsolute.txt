@@ -1,0 +1,15 @@
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.csproj.AssemblyReference.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.AssemblyInfoInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.AssemblyInfo.cs
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0\Rock Paper Scissors.exe
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0\Rock Paper Scissors.deps.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0\Rock Paper Scissors.runtimeconfig.json
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0\Rock Paper Scissors.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\net6.0\Rock Paper Scissors.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\refint\Rock Paper Scissors.dll
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.pdb
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\Rock Paper Scissors.genruntimeconfig.cache
+D:\Ivan\FullStackDevelopment\GitAndGithub\C#-Projects\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\net6.0\ref\Rock Paper Scissors.dll
